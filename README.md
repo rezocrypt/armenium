@@ -1,4 +1,4 @@
-# 🦠 🇦🇲 Armenium
+# 🦠 Armenium 🇦🇲
 
 > **The first Armenian Darknet (TOR, I2P) Website**
 
