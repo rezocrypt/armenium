@@ -13,16 +13,3 @@ A collection of fictional / harmless viruses carrying names inspired by places a
 The idea is simple:
 
 **Armenian places × computer viruses = Armenium**
-
-### ⚠️ Disclaimer
-
-These files are demonstrations and are **not intended to harm users, computers, or data**.
-
-Use them only in safe environments and for educational purposes.
-
-
-Contact: [@rezocrypt](https://t.me/rezocrypt)
-
----
-
-🇦🇲 **Made in Armenia**
